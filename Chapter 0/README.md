@@ -13,6 +13,13 @@ Stylesheets are getting larger, more complex, and harder to maintain. This is wh
 
 Sass lets you use features that do not exist in CSS, like variables, nested rules, mixins, imports, inheritance, built-in functions, and other stuff.
 
+## What You Should Already Know?
+
+Before you continue you should have a basic understanding of the following:
+
+- HTML
+- CSS
+
 ## A Simple Example why Sass is Useful
 
 Let's say we have a website with three main colors:
